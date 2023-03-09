@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "product-1", "prince": 200, "rating": 8.5 },
+    { "id": 2, "title": "product-2", "prince": 450, "rating": 10 },
+    { "id": 3, "title": "product-3", "prince": 250, "rating": 0.8 },
+    { "id": 4, "title": "product-4", "prince": 120, "rating": 6.7 }
+  ],
+  "comments": [
+    { "id": 1, "title": "San pham tot"},
+    { "id": 2, "title": "San pham rat tot"},
+    { "id": 3, "title": "San pham rat te"},
+    { "id": 4, "title": "San pham binh thuong"}
+  ],
+  "profile": { "name": "typicode" }
+}
